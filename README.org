@@ -1,0 +1,6 @@
+#+TITLE: C Programming Exercises
+#+AUTHOR: xtt28
+
+** Description
+
+Solutions to exercises from [[https://www.w3resource.com/c-programming-exercises/]].
